@@ -32,12 +32,12 @@ if (false) {
     checkUpdate();
 }
 const managerConfig = {
-    DATA_FILE_MD5: '71542fd9dd984791',
-    CODE_FILE_MD5: 'a283be66c8533866',
+    DATA_FILE_MD5: '27fd43b12ef571fb',
+    CODE_FILE_MD5: 'b5bb473b5c427122',
     GAME_NAME: 'webgl',
     APPID: 'wxd6e6993e274b5a6d',
     
-    DATA_CDN: 'http://pumpkinhead.cloud/EatHero/webgl',
+    DATA_CDN: 'https://pumpkinheadgame.github.io/ChatWrbDemo.github.io/EatHero/webgl',
     
     loadDataPackageFromSubpackage: false,
     
